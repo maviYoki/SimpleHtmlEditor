@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "EditorHtml/1.0.0": {
+        "dependencies": {
+          "Menu": "1.0.0",
+          "TextEditor": "1.0.0"
+        },
+        "runtime": {
+          "EditorHtml.dll": {}
+        }
+      },
+      "Menu/1.0.0": {
+        "runtime": {
+          "Menu.dll": {}
+        }
+      },
+      "TextEditor/1.0.0": {
+        "dependencies": {
+          "Menu": "1.0.0"
+        },
+        "runtime": {
+          "TextEditor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EditorHtml/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Menu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TextEditor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

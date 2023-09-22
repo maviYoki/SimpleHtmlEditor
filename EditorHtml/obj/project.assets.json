@@ -1,0 +1,112 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Menu/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Menu.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Menu.dll": {}
+        }
+      },
+      "TextEditor/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Menu": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/TextEditor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TextEditor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Menu/1.0.0": {
+      "type": "project",
+      "path": "../Menu/Menu.csproj",
+      "msbuildProject": "../Menu/Menu.csproj"
+    },
+    "TextEditor/1.0.0": {
+      "type": "project",
+      "path": "../TextEditor/TextEditor.csproj",
+      "msbuildProject": "../TextEditor/TextEditor.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Menu >= 1.0.0",
+      "TextEditor >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\maria\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\maria\\source\\repos\\EditorHtml\\EditorHtml\\EditorHtml.csproj",
+      "projectName": "EditorHtml",
+      "projectPath": "C:\\Users\\maria\\source\\repos\\EditorHtml\\EditorHtml\\EditorHtml.csproj",
+      "packagesPath": "C:\\Users\\maria\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\maria\\source\\repos\\EditorHtml\\EditorHtml\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\maria\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\maria\\source\\repos\\EditorHtml\\Menu\\Menu.csproj": {
+              "projectPath": "C:\\Users\\maria\\source\\repos\\EditorHtml\\Menu\\Menu.csproj"
+            },
+            "C:\\Users\\maria\\source\\repos\\EditorHtml\\TextEditor\\TextEditor.csproj": {
+              "projectPath": "C:\\Users\\maria\\source\\repos\\EditorHtml\\TextEditor\\TextEditor.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

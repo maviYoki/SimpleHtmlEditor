@@ -1,0 +1,15 @@
+C:\Users\maria\source\repos\EditorHtml\TextEditor\bin\Debug\net6.0\TextEditor.deps.json
+C:\Users\maria\source\repos\EditorHtml\TextEditor\bin\Debug\net6.0\TextEditor.dll
+C:\Users\maria\source\repos\EditorHtml\TextEditor\bin\Debug\net6.0\TextEditor.pdb
+C:\Users\maria\source\repos\EditorHtml\TextEditor\bin\Debug\net6.0\Menu.dll
+C:\Users\maria\source\repos\EditorHtml\TextEditor\bin\Debug\net6.0\Menu.pdb
+C:\Users\maria\source\repos\EditorHtml\TextEditor\obj\Debug\net6.0\TextEditor.csproj.AssemblyReference.cache
+C:\Users\maria\source\repos\EditorHtml\TextEditor\obj\Debug\net6.0\TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\source\repos\EditorHtml\TextEditor\obj\Debug\net6.0\TextEditor.AssemblyInfoInputs.cache
+C:\Users\maria\source\repos\EditorHtml\TextEditor\obj\Debug\net6.0\TextEditor.AssemblyInfo.cs
+C:\Users\maria\source\repos\EditorHtml\TextEditor\obj\Debug\net6.0\TextEditor.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\EditorHtml\TextEditor\obj\Debug\net6.0\TextEditor.csproj.CopyComplete
+C:\Users\maria\source\repos\EditorHtml\TextEditor\obj\Debug\net6.0\TextEditor.dll
+C:\Users\maria\source\repos\EditorHtml\TextEditor\obj\Debug\net6.0\refint\TextEditor.dll
+C:\Users\maria\source\repos\EditorHtml\TextEditor\obj\Debug\net6.0\TextEditor.pdb
+C:\Users\maria\source\repos\EditorHtml\TextEditor\obj\Debug\net6.0\ref\TextEditor.dll
